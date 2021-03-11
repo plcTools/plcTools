@@ -1,19 +1,20 @@
 # **✨ Te doy la Bienvenida a mis Repositorios ✨**
 
+## **Soy Patricio amante del desarrollo tecnologico**
 
-Podrás encontrar varios proyectos, ejercicios y soluciones.
+Podrás encontrar aqui algunos de mis proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
 
 
 ### Lenguajes utilizados
 ```
-javaScript || typeScript || Visual Basic.<br/>
+html || css || javaScript || typeScript || Visual Basic.<br/>
 Proximamente ==>>> Java y C#
 ```
 
 ### Tecnologías Utilizadas
 ```
-Node || express || sequelize || Mongo || Firebase || PostgreSQL
+Node || express || sequelize || Mongo || Firebase || PostgreSQL || Ms Access
 || React y React Native || Redux y otros frameworks y librerias 
 ```
 
@@ -21,6 +22,7 @@ Node || express || sequelize || Mongo || Firebase || PostgreSQL
 
 💬 Linkedin (like https://linkedin.com/in/patricio-cadenas-18331131)
 
+Sentite libre de escribirme!!<br/>
 📫 patricioLcadenas@gmail.com
 ⚡⚡⚡⚡
 
