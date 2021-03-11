@@ -1,9 +1,5 @@
-<div style = 'display: block; >
- <p style = 'text-align:left;'>✨ Te doy la Bienvenida a mis Repositorios ✨</p>
-<p style = 'text-align:right;'>
-<img src="./globe.gif" alt="world" width="100px">
-</p>
-</div>
+# **✨ Te doy la Bienvenida a mis Repositorios ✨**
+
 
 Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
