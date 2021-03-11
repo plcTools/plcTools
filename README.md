@@ -8,8 +8,8 @@ javaScript || typeScript || Visual Basic.<br/>
 Proximamente ==>>> Java y C#
 
 ### Tecnologías Utilizadas
-Node || express || sequelize || Mongo || Firebase || PostgreSQL
-|| React y React Native || Redux y otros frameworks y librerias
+```Node || express || sequelize || Mongo || Firebase || PostgreSQL
+|| React y React Native || Redux y otros frameworks y librerias```
 
 ## Espero lo disfrutes
 
