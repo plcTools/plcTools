@@ -3,13 +3,13 @@
 Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
 
-## Lenguajes utilizados
+### Lenguajes utilizados
 javaScript
 typeScript
 Visual Basic
 Proximamente ==>>> Java y C#
 
-## Tecnologías Utilizadas
+### Tecnologías Utilizadas
 Node || express || sequelize || Mongo || Firebase || PostgreSQL
 || React y React Native || Redux y otros frameworks y librerias
 
