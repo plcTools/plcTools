@@ -1,6 +1,6 @@
-#  **✨ Te doy la Bienvenida a mis Repositorios ✨**
+#  **✨ Te doy la Bienvenida a mis Repositorios ✨**    ![image of Patrick](./globe.gif)
 
-Podrás encontrar varios proyectos, ejercicios y soluciones.              ![image of Patrick](./globe.gif)
+Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
 
 
