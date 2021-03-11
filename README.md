@@ -1,4 +1,9 @@
-#  **✨ Te doy la Bienvenida a mis Repositorios ✨**
+<div style = 'display: block; >
+ <p style = 'text-align:left;'>✨ Te doy la Bienvenida a mis Repositorios ✨</p>
+<p style = 'text-align:right;'>
+<img src="./globe.gif" alt="world" width="100px">
+</p>
+</div>
 
 Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
@@ -20,8 +25,8 @@ Node || express || sequelize || Mongo || Firebase || PostgreSQL
 
 💬 Linkedin (like https://linkedin.com/in/patricio-cadenas-18331131)
 
-⚡⚡Si ves errores o te gustaria ayudarme a seguir aprendiendo, escribime sin dudarlo⚡⚡
 📫 patricioLcadenas@gmail.com
+⚡⚡⚡⚡
 
 <!--
 
