@@ -18,7 +18,7 @@ Node || express || sequelize || Mongo || Firebase || PostgreSQL
 
 ## Espero lo disfrutes
 
-💬 [Linkedin] (https://linkedin.com/in/patricio-cadenas-18331131)
+💬 Linkedin (like https://linkedin.com/in/patricio-cadenas-18331131)
 
 ⚡⚡Si ves errores o te gustaria ayudarme a seguir aprendiendo, escribime sin dudarlo⚡⚡
 📫 patricioLcadenas@gmail.com
