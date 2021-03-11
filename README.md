@@ -1,6 +1,6 @@
 #  **✨ Te doy la Bienvenida a mis Repositorios ✨**
 
-Podrás encontrar varios proyectos, ejercicios y soluciones.
+Podrás encontrar varios proyectos, ejercicios y soluciones.              ![image of Patrick](./globe.gif)
 La mayoría se encuentran en desarrollo y actualización constante
 
 
@@ -24,7 +24,7 @@ Node || express || sequelize || Mongo || Firebase || PostgreSQL
 📫 patricioLcadenas@gmail.com
 
 <!--
-![image of Patrick](./descarga.gif)
+
 **plcTools/plcTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
