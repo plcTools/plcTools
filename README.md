@@ -1,4 +1,4 @@
-#  **✨ Te doy la Bienvenida a mis Repositorios ✨**    ![image of Patrick](./globe.gif =100x100)
+#  **✨ Te doy la Bienvenida a mis Repositorios ✨**    ![image of Patrick](./globe.gif = 100x100)
 
 Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
