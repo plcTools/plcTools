@@ -4,9 +4,7 @@ Podrás encontrar varios proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
 
 ### Lenguajes utilizados
-javaScript
-typeScript
-Visual Basic
+javaScript || typeScript || Visual Basic.<br/>
 Proximamente ==>>> Java y C#
 
 ### Tecnologías Utilizadas
