@@ -1,6 +1,6 @@
 # **✨ Te doy la Bienvenida a mis Repositorios ✨**
 
-## **Soy Patricio, amante del desarrollo tecnologico**
+## **Soy Patricio, amante del desarrollo tecnológico**
 
 Podrás encontrar aqui algunos de mis proyectos, ejercicios y soluciones.
 La mayoría se encuentran en desarrollo y actualización constante
