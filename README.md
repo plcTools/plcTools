@@ -8,7 +8,7 @@ La mayoría se encuentran en desarrollo y actualización constante
 
 ### Lenguajes utilizados
 ```
-html || css || javaScript || typeScript || Visual Basic.<br/>
+html || css || javaScript || typeScript || Visual Basic.  
 Proximamente ==>>> Java y C#
 ```
 
