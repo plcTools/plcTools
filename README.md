@@ -15,10 +15,8 @@ Proximamente ==>>> Java y C#
 ### Tecnologías Utilizadas
 ```
 Node || express || sequelize || Mongo || Firebase || PostgreSQL || Ms Access
-|| React y React Native || Redux y otros frameworks y librerias 
+|| React y React Native || Redux || Gatsby y otros frameworks y librerias 
 ```
-
-## Espero lo disfrutes
 
 💬 Linkedin (like https://linkedin.com/in/patricio-cadenas-18331131)
 
